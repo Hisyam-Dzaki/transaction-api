@@ -14,5 +14,23 @@
     "pg": "^8.7.3",
     "sequelize": "^6.19.2",
     "sequelize-cli": "^6.4.1"
-  }
+  },
+  "name": "transaction-api",
+  "description": "<h1 align=\"center\"> Final Projects #3 : Transaction API <Hacktiv8> </h1>",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewabagas/transaction-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dewabagas/transaction-api/issues"
+  },
+  "homepage": "https://github.com/dewabagas/transaction-api#readme"
 }
